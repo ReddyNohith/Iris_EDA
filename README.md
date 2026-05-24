@@ -83,8 +83,8 @@ iris-eda/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com//.git
-cd 
+git clone https://github.com/ReddyNohith/Iris_EDA.git
+cd Iris_EDA
 ```
 
 **2. Install dependencies**
